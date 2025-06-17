@@ -24,11 +24,9 @@ cybersecurity-lab/
 └── LICENSE
 ```
 
-You can name the main repo something punchy like `CyberSentinel-Labs` or `DefensivePython`.
-
 ---
 
-## 🧠 Sample README: `password-strength-analyzer/README.md`
+## 🧠 README: `password-strength-analyzer/README.md`
 
 ```markdown
 # 🔐 Password Strength Analyzer
@@ -46,7 +44,7 @@ This tool evaluates the strength of user-provided passwords using entropy calcul
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cybersecurity-lab.git
+   git clone https://github.com/Abuzkah/CyberSentinal-labs.git
    ```
 2. Navigate to the analyzer:
    ```bash
@@ -60,7 +58,6 @@ This tool evaluates the strength of user-provided passwords using entropy calcul
 ## 📸 Demo
 
 ![Screenshot](https://example.com/demo-image.png)  
-*(Replace with your own image or GIF)*
 
 ## 🧪 Example Output
 
@@ -77,4 +74,3 @@ For educational use only. Do not use this tool to analyze passwords you do not o
 
 ---
 
-Want help writing the code for this first project? I can walk you through it or generate a clean, well-commented version to get started. Or maybe you want to Dockerize it, add a GUI, or use GPT to suggest stronger passwords. Just say the word! 💡🧑‍💻
