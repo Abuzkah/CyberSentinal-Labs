@@ -1,3 +1,48 @@
+# 🛡️ CyberSentinel-Labs
+
+Welcome to **CyberSentinel-Labs** — a growing arsenal of ethical cybersecurity tools and demos built with Python. This project is dedicated to exploring real-world InfoSec concepts through hands-on, beginner-to-intermediate projects that are both practical and educational. Whether you're a student, aspiring ethical hacker, or seasoned developer diving into cyber defense, this repo is your launchpad.
+
+---
+
+## 🧩 What’s Inside
+
+- 🔐 `password-strength-analyzer/` — evaluate and strengthen password security with entropy scoring  
+- 🌐 `port-scanner/` — scan and map network ports with customizable parameters  
+- 🔍 `vulnerability-scanner/` — detect OWASP-style weaknesses in websites and filesystems  
+- ✉️ `phishing-email-simulator/` — generate mock phishing scenarios for awareness training  
+- 🦠 `ransomware-simulator/` — safely explore encryption techniques in a sandboxed environment  
+
+---
+
+## ⚙️ Why It Matters
+
+Cyber threats aren’t slowing down—and neither should your skills. These tools offer safe, simulated environments to build confidence in:
+
+- Core security concepts  
+- Secure coding practices  
+- Ethical hacking principles
+
+---
+
+## 🔄 Roadmap
+
+- 🔧 Add unit tests and CI/CD pipelines  
+- 🐳 Dockerize major tools for portability  
+- 🧠 Expand into malware analysis and cloud security labs  
+- 🌍 Enable community contributions and project templates  
+
+---
+
+## 📦 Getting Started
+
+Clone the repository and dive into any project folder:
+
+```bash
+git clone https://github.com/yourusername/CyberSentinel-Labs.git
+cd CyberSentinel-Labs/password-strength-analyzer
+python analyzer.py
+
+
 ```
 cybersecurity-lab/
 │
