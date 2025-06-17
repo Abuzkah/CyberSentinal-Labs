@@ -1,3 +1,1 @@
-<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
 
-This workspace contains a collection of beginner-to-intermediate cybersecurity projects in Python. Each project is in its own folder with a README.md explaining the objective, how it works, and how to run it. Prioritize code quality, modularity, and documentation. Follow ethical hacking principles and ensure all code is safe to run and does not connect to or interfere with external systems or networks.
