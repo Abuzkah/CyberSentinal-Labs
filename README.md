@@ -1,9 +1,3 @@
-Awesome—let’s set up your project hub in style! Here's a solid **GitHub repo structure** to organize your cybersecurity toolkit, followed by a **starter README** for the first project (the Password Strength Analyzer). Everything's modular, so you can expand as your portfolio grows.
-
----
-
-## 📁 Repository Structure: `cybersecurity-lab`
-
 ```
 cybersecurity-lab/
 │
